@@ -1,0 +1,46 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Applications/MAMP/htdocs/wordpress/wp-content/themes/amawaterways.jp/crooz-view.php" timestamp="1518591344148">
+        <mark key="[" line="45" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/test/src/main.java" timestamp="1518591410253">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Applications/MAMP/htdocs/wordpress/wp-content/themes/amawaterways.jp/header.php" timestamp="1518587915109">
+        <mark key="[" line="40" column="78" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1518359579152">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Applications/MAMP/htdocs/wordpress/wp-content/themes/amawaterways.jp/functions.php" timestamp="1518589532504" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
