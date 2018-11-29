@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="caffemodel" type="PLAIN_TEXT" />
       <mapping ext="bas" type="PLAIN_TEXT" />
     </extensionMap>
