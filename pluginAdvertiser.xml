@@ -2470,6 +2470,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="MUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
