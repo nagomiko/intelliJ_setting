@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="aa" type="AUTO_DETECTED" />
       <mapping pattern="test_databricks_operator" type="AUTO_DETECTED" />
+      <mapping pattern="redash_env" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
